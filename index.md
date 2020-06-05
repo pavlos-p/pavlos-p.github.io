@@ -9,7 +9,7 @@
 
 ---
 [Phishing URL Detection Through Top-level Domain Analysis: A Descriptive Approach](/phishing_url_detection)
-<img src="images/Phishing_Url_Detection_Splunk.png?raw=true"/>
+<img src="images/Phishing_Url_Detection_Splunk.png?raw=true" width="50"/>
 
 ---
 <!-- [Project 3 Title](http://example.com/)
