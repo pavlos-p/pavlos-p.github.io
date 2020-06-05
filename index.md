@@ -2,7 +2,7 @@
 
 ---
 
-### Category Name 1 
+### Publications 
 
 [Project 1 Title](/dtf_for_ppml)
 <img src="images/Distributed_PPML.png?raw=true"/>
