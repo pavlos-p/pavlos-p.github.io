@@ -1,5 +1,5 @@
 ## Pavlos Papadopoulos Portfolio
-<br>
+
 <img src="images/logo.png?raw=true" alt="logo" class="center" width="50%"/>
 <br>
 PhD Student
@@ -11,7 +11,7 @@ Edinburgh Napier University
 <a href="https://www.linkedin.com/in/pavpapadopoulos/">View My LinkedIn Profile</a>
 <br><br>
 <a href="https://www.napier.ac.uk/people/pavlos-papadopoulos">View My University Portfolio</a>
-<br>
+<br><br>
 ---
 
 ### Publications 
