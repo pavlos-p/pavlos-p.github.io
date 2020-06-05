@@ -4,12 +4,12 @@
 
 ### Category Name 1 
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Project 1 Title](/dtf_for_ppml)
+<img src="images/Distributed_PPML.png?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Project 2 Title](/phishing_url_detection)
+<img src="images/Phishing_Url_Detection_Splunk?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
@@ -19,8 +19,8 @@
 
 ### Category Name 2
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
+- [A Distributed Trust Framework for Privacy Preserving Machine Learning](https://arxiv.org/abs/2006.02456)
+- [Phishing URL Detection Through Top-level Domain Analysis: A Descriptive Approach](https://arxiv.org/abs/2005.06599)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
 - [Project 5 Title](http://example.com/)
