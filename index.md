@@ -4,11 +4,11 @@
 
 ### Publications 
 
-[Project 1 Title](/dtf_for_ppml)
+[A Distributed Trust Framework for Privacy-Preserving Machine Learning](/dtf_for_ppml)
 <img src="images/Distributed_PPML.png?raw=true"/>
 
 ---
-[Project 2 Title](/phishing_url_detection)
+[Phishing URL Detection Through Top-level Domain Analysis: A Descriptive Approach](/phishing_url_detection)
 <img src="images/Phishing_Url_Detection_Splunk?raw=true"/>
 
 ---
