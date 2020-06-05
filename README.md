@@ -1,6 +1,7 @@
-## Pavlos Papadopoulos Portfolio
-
-<img src="images/logo.png?raw=true" alt="logo" class="center" width="50%"/>
+## Pavlos Papadopoulos
+[Portfolio](https://pavlos-p.github.io/)
+<br>
+<img src="images/logo.png?raw=true" alt="logo" class="center" width="40%"/>
 <br>
 PhD Student
 <br><br>
@@ -16,12 +17,12 @@ Edinburgh Napier University
 
 ### Publications 
 
-[A Distributed Trust Framework for Privacy-Preserving Machine Learning](/dtf_for_ppml)
+[A Distributed Trust Framework for Privacy-Preserving Machine Learning](https://pavlos-p.github.io/dtf_for_ppml)
 <br/><br/>
 <img src="images/Distributed_PPML.png?raw=true" alt="A Distributed Trust Framework for Privacy-Preserving Machine Learning" class="center" width="70%"/>
 
 ---
-[Phishing URL Detection Through Top-level Domain Analysis: A Descriptive Approach](/phishing_url_detection)
+[Phishing URL Detection Through Top-level Domain Analysis: A Descriptive Approach](https://pavlos-p.github.io/phishing_url_detection)
 <br/><br/>
 <img src="images/Phishing_Url_Detection_Splunk.png?raw=true" alt="Phishing URL Detection Through Top-level Domain Analysis: A Descriptive Approach" class="center" width="60%"/>
 
