@@ -18,12 +18,12 @@ Edinburgh Napier University
 
 [A Distributed Trust Framework for Privacy-Preserving Machine Learning](/dtf_for_ppml)
 <br/><br/>
-<img src="images/Distributed_PPML.png?raw=true" alt="A Distributed Trust Framework for Privacy-Preserving Machine Learning" class="center"/>
+<img src="images/Distributed_PPML.png?raw=true" alt="A Distributed Trust Framework for Privacy-Preserving Machine Learning" class="center" width="70%"/>
 
 ---
 [Phishing URL Detection Through Top-level Domain Analysis: A Descriptive Approach](/phishing_url_detection)
 <br/><br/>
-<img src="images/Phishing_Url_Detection_Splunk.png?raw=true" alt="Phishing URL Detection Through Top-level Domain Analysis: A Descriptive Approach" class="center" width="80%"/>
+<img src="images/Phishing_Url_Detection_Splunk.png?raw=true" alt="Phishing URL Detection Through Top-level Domain Analysis: A Descriptive Approach" class="center" width="60%"/>
 
 ---
 
