@@ -1,6 +1,6 @@
 ## Pavlos Papadopoulos Portfolio
 <br>
-<img src="images/logo.png?raw=true" alt="logo" class="center"/>
+<img src="images/logo.png?raw=true" alt="logo" class="center" width="50%"/>
 <br>
 PhD Student
 <br><br>
