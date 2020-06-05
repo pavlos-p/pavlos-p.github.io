@@ -21,6 +21,7 @@
 
 - [A Distributed Trust Framework for Privacy Preserving Machine Learning](https://arxiv.org/abs/2006.02456)
 - [Phishing URL Detection Through Top-level Domain Analysis: A Descriptive Approach](https://arxiv.org/abs/2005.06599)
+
 <!-- - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
 - [Project 5 Title](http://example.com/) -->
