@@ -12,7 +12,7 @@ Edinburgh Napier University
 <a href="https://www.linkedin.com/in/pavpapadopoulos/">View My LinkedIn Profile</a>
 
 <a href="https://www.napier.ac.uk/people/pavlos-papadopoulos">View My University Portfolio</a>
-<br>
+
 ---
 
 ### Publications 
