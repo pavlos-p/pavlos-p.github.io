@@ -6,12 +6,12 @@
 
 [A Distributed Trust Framework for Privacy-Preserving Machine Learning](/dtf_for_ppml)
 <br/><br/>
-<img src="images/Distributed_PPML.png?raw=true"/>
+<img src="images/Distributed_PPML.png?raw=true" alt="" class="center"/>
 
 ---
 [Phishing URL Detection Through Top-level Domain Analysis: A Descriptive Approach](/phishing_url_detection)
 <br/><br/>
-<img src="images/Phishing_Url_Detection_Splunk.png?raw=true" width="80%"/>
+<img src="images/Phishing_Url_Detection_Splunk.png?raw=true" alt="Phishing URL Detection Through Top-level Domain Analysis: A Descriptive Approach" class="center" width="80%"/>
 
 ---
 <!-- [Project 3 Title](http://example.com/)
