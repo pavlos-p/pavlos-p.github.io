@@ -8,4 +8,4 @@
 
 To be published in the proceedings of the 17th International Conference on Trust, Privacy and Security in Digital Business - TrustBus2020
 
-For more details see [A Distributed Trust Framework for Privacy-Preserving Machine Learning](https://arxiv.org/abs/2006.02456).
+For more details: [A Distributed Trust Framework for Privacy-Preserving Machine Learning](https://arxiv.org/abs/2006.02456).
