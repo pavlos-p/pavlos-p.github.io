@@ -4,13 +4,13 @@
 <img src="images/logo.png?raw=true" alt="logo" class="center" width="40%"/>
 <br><br>
 PhD Student
-<br><br>
+
 Cybersecurity, Distributed Ledger Technology, Privacy-Preserving Machine Learning
-<br><br>
+
 Edinburgh Napier University
-<br><br>
+
 <a href="https://www.linkedin.com/in/pavpapadopoulos/">View My LinkedIn Profile</a>
-<br><br>
+
 <a href="https://www.napier.ac.uk/people/pavlos-papadopoulos">View My University Portfolio</a>
 <br><br>
 ---
