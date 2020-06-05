@@ -1,8 +1,8 @@
-## This can be your internal website page / project page
+## A Distributed Trust Framework for Privacy-Preserving Machine Learning
 
-**Project description:** Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+**Abstract:** When training a machine learning model, it is standard procedure for the researcher to have full knowledge of both the data and model. However, this engenders a lack of trust between data owners and data scientists. Data owners are justifiably reluctant to relinquish control of private information to third parties. Privacy-preserving techniques distribute computation in order to ensure that data remains in the control of the owner while learning takes place. However, architectures distributed amongst multiple agents introduce an entirely new set of security and trust complications. These include data poisoning and model theft. This paper outlines a distributed infrastructure which is used to facilitate peer-to-peer trust between distributed agents; collaboratively performing a privacy-preserving workflow. Our outlined prototype sets industry gatekeepers and governance bodies as credential issuers. Before participating in the distributed learning workflow, malicious actors must first negotiate valid credentials. We detail a proof of concept using Hyperledger Aries, Decentralised Identifiers (DIDs) and Verifiable Credentials (VCs) to establish a distributed trust architecture during a privacy-preserving machine learning experiment. Specifically, we utilise secure and authenticated DID communication channels in order to facilitate a federated learning workflow related to mental health care data.
 
-### 1. Suggest hypotheses about the causes of observed phenomena
+<!-- ### 1. Suggest hypotheses about the causes of observed phenomena
 
 Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
 
@@ -20,12 +20,14 @@ if (isAwesome){
 }
 ```
 
-### 3. Support the selection of appropriate statistical tools and techniques
+### 3. Support the selection of appropriate statistical tools and techniques -->
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/Distributed_PPML.png?raw=true"/>
 
-### 4. Provide a basis for further data collection through surveys or experiments
+<!-- ### 4. Provide a basis for further data collection through surveys or experiments
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
+Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.  -->
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+To be published in the proceedings of the 17th International Conference on Trust, Privacy and Security in Digital Business - TrustBus2020
+
+For more details see [A Distributed Trust Framework for Privacy-Preserving Machine Learning](https://arxiv.org/abs/2006.02456).
