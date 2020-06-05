@@ -1,8 +1,8 @@
 ## Pavlos Papadopoulos
 [Portfolio](https://pavlos-p.github.io/)
-<br>
+<br><br>
 <img src="images/logo.png?raw=true" alt="logo" class="center" width="40%"/>
-<br>
+<br><br>
 PhD Student
 <br><br>
 Cybersecurity, Distributed Ledger Technology, Privacy-Preserving Machine Learning
