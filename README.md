@@ -17,6 +17,24 @@ Edinburgh Napier University
 
 ### Publications 
 
+[Privacy-Preserving Passive DNS](/preserve_dns)
+<br/><br/>
+<picture>
+    <source type="images/webp" srcset="/images/PRESERVE_DNS_COVER.webp" />
+    <source type="images/png" srcset="/images/PRESERVE_DNS_COVER.jpg" />
+    <img class="z-depth-1" src="/images/PRESERVE_DNS_COVER.jpg" alt="Privacy-Preserving Passive DNS">
+</picture>
+
+---
+[Review and Critical Analysis of Privacy-preserving Infection Tracking and Contact Tracing](/pp_contact_tracing)
+<br/><br/>
+<picture>
+    <source type="images/webp" srcset="/images/contact_tracing.webp" />
+    <source type="images/png" srcset="/images/contact_tracing.png" />
+    <img class="z-depth-1" src="/images/contact_tracing.png" alt="Review and Critical Analysis of Privacy-preserving Infection Tracking and Contact Tracing">
+</picture>
+
+---
 [A Distributed Trust Framework for Privacy-Preserving Machine Learning](https://pavlos-p.github.io/dtf_for_ppml)
 <br/><br/>
 <picture>
