@@ -12,6 +12,8 @@
     <img class="z-depth-1" src="/images/PRESERVE_DNS_COVER.jpg" alt="Privacy-Preserving Passive DNS">
 </picture>
 
+
+---
 [Review and Critical Analysis of Privacy-preserving Infection Tracking and Contact Tracing](/pp_contact_tracing)
 <br/><br/>
 <picture>
@@ -20,6 +22,8 @@
     <img class="z-depth-1" src="/images/contact_tracing.png" alt="Review and Critical Analysis of Privacy-preserving Infection Tracking and Contact Tracing">
 </picture>
 
+
+---
 [A Distributed Trust Framework for Privacy-Preserving Machine Learning](/dtf_for_ppml)
 <br/><br/>
 <picture>
