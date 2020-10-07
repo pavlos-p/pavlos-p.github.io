@@ -9,6 +9,8 @@
     <img class="z-depth-1" src="/images/contact_tracing.png" alt="Review and Critical Analysis of Privacy-preserving Infection Tracking and Contact Tracing">
 </picture>
 
+<br><br>
+
 ---
 
 <br><br>

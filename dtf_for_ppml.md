@@ -9,6 +9,7 @@
     <img class="z-depth-1" src="/images/Distributed_PPML.png" alt="A Distributed Trust Framework for Privacy-Preserving Machine Learning">
 </picture>
 
+<br><br>
 ---
 
 <br><br>

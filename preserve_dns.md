@@ -9,6 +9,8 @@
     <img class="z-depth-1" src="/images/PRESERVE_DNS_COVER.jpg" alt="Privacy-Preserving Passive DNS">
 </picture>
 
+<br><br>
+
 ---
 
 <br><br>

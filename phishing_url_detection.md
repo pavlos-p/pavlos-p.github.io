@@ -9,6 +9,8 @@
     <img class="z-depth-1" src="/images/Phishing_Url_Detection_Splunk.png" alt="Phishing URL Detection Through Top-level Domain Analysis: A Descriptive Approach" width="80%">
 </picture>
 
+<br><br>
+
 ---
 
 <br><br>
