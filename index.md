@@ -47,8 +47,11 @@
 
 ### Publication Links
 
+- [Privacy-Preserving Passive DNS](https://www.mdpi.com/2073-431X/9/3/64)
+- [Review and Critical Analysis of Privacy-preserving Infection Tracking and Contact Tracing](https://www.frontiersin.org/articles/10.3389/frcmn.2020.583376)
 - [A Distributed Trust Framework for Privacy Preserving Machine Learning](https://arxiv.org/abs/2006.02456)
 - [Phishing URL Detection Through Top-level Domain Analysis: A Descriptive Approach](https://arxiv.org/abs/2005.06599)
+
 
 
 
