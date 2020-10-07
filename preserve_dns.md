@@ -9,11 +9,10 @@
     <img class="z-depth-1" src="/images/PRESERVE_DNS_COVER.jpg" alt="Privacy-Preserving Passive DNS">
 </picture>
 
-<br><br>
-
+<br>
 ---
+<br>
 
-<br><br>
 MDPI Computers 2020, 9(3), 64; https://doi.org/10.3390/computers9030064
 
 For more details: [Privacy-Preserving Passive DNS](https://www.mdpi.com/2073-431X/9/3/64).

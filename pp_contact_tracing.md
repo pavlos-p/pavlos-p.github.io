@@ -9,11 +9,10 @@
     <img class="z-depth-1" src="/images/contact_tracing.png" alt="Review and Critical Analysis of Privacy-preserving Infection Tracking and Contact Tracing">
 </picture>
 
-<br><br>
-
+<br>
 ---
+<br>
 
-<br><br>
 Frontiers in Communications and Networks. DOI: 10.3389/frcmn.2020.583376
 
 For more details: [Review and Critical Analysis of Privacy-preserving Infection Tracking and Contact Tracing](https://www.frontiersin.org/articles/10.3389/frcmn.2020.583376).

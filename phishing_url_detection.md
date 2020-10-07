@@ -9,11 +9,10 @@
     <img class="z-depth-1" src="/images/Phishing_Url_Detection_Splunk.png" alt="Phishing URL Detection Through Top-level Domain Analysis: A Descriptive Approach" width="80%">
 </picture>
 
-<br><br>
-
+<br>
 ---
+<br>
 
-<br><br>
 In proceedings of the 6th International Conference on Information Systems Security and Privacy - ICISSP 2020
 
 For more details: [Phishing URL Detection Through Top-level Domain Analysis: A Descriptive Approach](https://arxiv.org/abs/2005.06599).
