@@ -9,6 +9,8 @@
     <img class="z-depth-1" src="/images/Distributed_PPML.png" alt="A Distributed Trust Framework for Privacy-Preserving Machine Learning">
 </picture>
 
+---
+
 <br><br>
 In proceedings of the 17th International Conference on Trust, Privacy and Security in Digital Business - TrustBus2020
 
