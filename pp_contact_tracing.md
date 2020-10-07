@@ -13,7 +13,6 @@
 
 ---
 
-<br>
 
 Frontiers in Communications and Networks. DOI: 10.3389/frcmn.2020.583376
 

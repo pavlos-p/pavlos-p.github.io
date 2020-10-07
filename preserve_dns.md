@@ -13,7 +13,6 @@
 
 ---
 
-<br>
 
 MDPI Computers 2020, 9(3), 64; https://doi.org/10.3390/computers9030064
 

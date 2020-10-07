@@ -13,7 +13,6 @@
 
 ---
 
-<br>
 
 In proceedings of the 17th International Conference on Trust, Privacy and Security in Digital Business - TrustBus2020
 

@@ -13,7 +13,6 @@
 
 ---
 
-<br>
 
 In proceedings of the 6th International Conference on Information Systems Security and Privacy - ICISSP 2020
 
