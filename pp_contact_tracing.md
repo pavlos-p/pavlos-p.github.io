@@ -10,6 +10,6 @@
 </picture>
 
 <br><br>
-Frontiers in Communications and Networks | doi: 10.3389/frcmn.2020.583376
+Frontiers in Communications and Networks. DOI: 10.3389/frcmn.2020.583376
 
 For more details: [Review and Critical Analysis of Privacy-preserving Infection Tracking and Contact Tracing](https://www.frontiersin.org/articles/10.3389/frcmn.2020.583376).
