@@ -4,6 +4,25 @@
 
 ### Publications 
 
+[A Privacy-Preserving Healthcare Framework Using Hyperledger Fabric](/prehealth)
+<br/><br/>
+<picture>
+    <source type="images/webp" srcset="/images/prehealth.webp" />
+    <source type="images/png" srcset="/images/prehealth.png" />
+    <img class="z-depth-1" src="/images/prehealth.png" alt="A Privacy-Preserving Healthcare Framework Using Hyperledger Fabric">
+</picture>
+
+
+---
+[Asymmetric Private Set Intersection with Applications to Contact Tracing and Private Vertical Federated Machine Learning](/psi)
+<br/><br/>
+<picture>
+    <source type="images/webp" srcset="/images/psi.webp" />
+    <source type="images/png" srcset="/images/psi.png" />
+    <img class="z-depth-1" src="/images/psi.png" alt="Asymmetric Private Set Intersection with Applications to Contact Tracing and Private Vertical Federated Machine Learning">
+</picture>
+
+---
 [Privacy-Preserving Passive DNS](/preserve_dns)
 <br/><br/>
 <picture>
@@ -47,6 +66,8 @@
 
 ### Publication Links
 
+- [A Privacy-Preserving Healthcare Framework Using Hyperledger Fabric](https://www.mdpi.com/1424-8220/20/22/6587)
+- [Asymmetric Private Set Intersection with Applications to Contact Tracing and Private Vertical Federated Machine Learning](https://arxiv.org/abs/2011.09350)
 - [Privacy-Preserving Passive DNS](https://www.mdpi.com/2073-431X/9/3/64)
 - [Review and Critical Analysis of Privacy-preserving Infection Tracking and Contact Tracing](https://www.frontiersin.org/articles/10.3389/frcmn.2020.583376)
 - [A Distributed Trust Framework for Privacy Preserving Machine Learning](https://arxiv.org/abs/2006.02456)
