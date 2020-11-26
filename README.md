@@ -1,4 +1,19 @@
-## Portfolio
+
+## Pavlos Papadopoulos
+[Portfolio](https://pavlos-p.github.io/)
+<br><br>
+<img src="images/logo.png" alt="logo" class="center" width="40%"/>
+<br><br>
+PhD Student
+
+Cybersecurity, Distributed Ledger Technology, Privacy-Preserving Machine Learning
+
+Edinburgh Napier University
+
+<a href="https://www.linkedin.com/in/pavpapadopoulos/">View My LinkedIn Profile</a>
+
+<a href="https://www.napier.ac.uk/people/pavlos-papadopoulos">View My University Portfolio</a>
+
 
 ---
 
