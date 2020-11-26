@@ -14,6 +14,8 @@ Edinburgh Napier University
 
 <a href="https://www.napier.ac.uk/people/pavlos-papadopoulos">View My University Portfolio</a>
 
+<a href="https://github.com/pavlos-p">View My GitHub Profile</a>
+
 
 ---
 
