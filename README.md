@@ -4,7 +4,7 @@
 <br><br>
 <img src="images/logo.png" alt="logo" class="center" width="40%"/>
 <br><br>
-PhD Student
+Associate Lecturer / PhD Student
 
 Cybersecurity, Distributed Ledger Technology, Privacy-Preserving Machine Learning
 
