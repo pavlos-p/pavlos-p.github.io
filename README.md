@@ -1,6 +1,6 @@
 
 ## Pavlos Papadopoulos
-[Portfolio](https://pavlos-p.github.io/)
+[Portfolio](https://pavlosp.me/)
 <br><br>
 <img src="images/logo.png" alt="logo" class="center" width="40%"/>
 <br><br>
@@ -23,7 +23,7 @@ Edinburgh Napier University
 
 ### Publications 
 
-[PyVertical: A Vertical Federated Learning Framework for Multi-headed SplitNN](/pyvertical)
+[PyVertical: A Vertical Federated Learning Framework for Multi-headed SplitNN](https://pavlosp.me/pyvertical)
 <br/><br/>
 <picture>
     <source type="images/webp" srcset="/images/PyVertical_architecture.webp" />
@@ -32,7 +32,7 @@ Edinburgh Napier University
 </picture>
 
 ---
-[Practical Defences Against Model Inversion Attacks for Split Neural Networks](/practical_defences)
+[Practical Defences Against Model Inversion Attacks for Split Neural Networks](https://pavlosp.me/practical_defences)
 <br/><br/>
 <picture>
     <source type="images/webp" srcset="/images/practical_defences.webp" />
@@ -41,7 +41,7 @@ Edinburgh Napier University
 </picture>
 
 ---
-[Privacy and Trust Redefined in Federated Machine Learning](/privacy_and_trust_redefined)
+[Privacy and Trust Redefined in Federated Machine Learning](https://pavlosp.me/privacy_and_trust_redefined)
 <br/><br/>
 <picture>
     <source type="images/webp" srcset="/images/Distributed_PPML.webp" />
@@ -50,7 +50,7 @@ Edinburgh Napier University
 </picture>
 
 ---
-[A Privacy-Preserving Healthcare Framework Using Hyperledger Fabric](/prehealth)
+[A Privacy-Preserving Healthcare Framework Using Hyperledger Fabric](https://pavlosp.me/prehealth)
 <br/><br/>
 <picture>
     <source type="images/webp" srcset="/images/prehealth.webp" />
@@ -59,7 +59,7 @@ Edinburgh Napier University
 </picture>
 
 ---
-[Privacy-Preserving Passive DNS](/preserve_dns)
+[Privacy-Preserving Passive DNS](https://pavlosp.me/preserve_dns)
 <br/><br/>
 <picture>
     <source type="images/webp" srcset="/images/PRESERVE_DNS_COVER.webp" />
