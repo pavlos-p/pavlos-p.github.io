@@ -17,7 +17,7 @@
 <br/><br/>
 <picture>
     <source type="images/webp" srcset="/images/practical_defences.webp" />
-    <source type="images/png" srcset="/images/practical_defences.png" class="center"/>
+    <source type="images/png" srcset="/images/practical_defences.png" />
     <img class="z-depth-1" src="/images/practical_defences.png" alt="Practical Defences Against Model Inversion Attacks for Split Neural Networks">
 </picture>
 
