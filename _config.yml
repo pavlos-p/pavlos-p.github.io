@@ -10,6 +10,8 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br><br>
   <a href="https://www.linkedin.com/in/pavpapadopoulos/">View My LinkedIn Profile</a>
   <br><br>
+  <a href="https://scholar.google.com/citations?user=yeOdBQgAAAAJ&hl=en">View My Google Scholar Profile</a>
+  <br><br>
   <a href="https://www.napier.ac.uk/people/pavlos-papadopoulos">View My University Portfolio</a>  
   
 theme: jekyll-theme-minimal
